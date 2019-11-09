@@ -1,0 +1,10 @@
+Number of sextuplets (or six values) that satisfy an equation	
+Chocolate Distribution	
+Flight Range Bookings	
+Product of Sums (Sum of special triplets having elements from 3 arrays)
+Count of smaller numbers after self	
+Reverse pairs	
+Count of Range Sum	
+Gcd Ordering	
+Inversion count in an array	
+Bus and Passenger
